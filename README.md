@@ -3,4 +3,4 @@ A small project built by jQuery
 
 #screenshot
 
-![Alt text](/overview.png?raw=true "overview)
+![Alt text](/https://github.com/wendyfly/Lightingbox/blob/master/overview.png?raw=true "overview)
